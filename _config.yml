@@ -1,7 +1,8 @@
 name: Girl With Kaleidoscope Eyes
 favicon: null
-layout_spectrum: 0.7135526423808187
-typography_spectrum: 0.7765225772745907
+layout_spectrum: 0.76557
+typography_spectrum: 1
+title: Girl With Kaleidoscope Eyes
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#58627a'
+    - '#e6a6a5'
+    - '#431c2b'
+    - '#9d6179'
+    - '#fefefe'
   brandStrength: 0.5448093151208013
   lightness: 0.3433530430775136
   saturation: 0.9674219870939851
