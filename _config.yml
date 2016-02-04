@@ -1,0 +1,29 @@
+name: Girl With Kaleidoscope Eyes
+favicon: null
+layout_spectrum: 0.7135526423808187
+typography_spectrum: 0.7765225772745907
+title: Girl With Kaleidoscope Eyes
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5448093151208013
+  lightness: 0.3433530430775136
+  saturation: 0.9674219870939851
+  rhythmicContrast: 0.5279751128982753
+purpose: []
