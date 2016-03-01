@@ -17,8 +17,8 @@ keywords:
   - habitat
   - located
 description: ''
-datePublished: '2016-03-01T06:12:46.308Z'
-dateModified: '2016-03-01T06:12:19.139Z'
+datePublished: '2016-03-01T06:16:34.931Z'
+dateModified: '2016-03-01T06:15:33.909Z'
 author:
   - name: Hui Jun Ng
     url: 'http://www.ladyironchef.com/author/hui-jun/'
@@ -38,6 +38,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a653b45-d57c-4cc0-902c-73979c420a00.jpg)
+
 Why I want to be a tourist in my own country?
 
 When I returned from my exchange programme in Hong Kong, I vowed to take time to explore my own country as fervently as I had explored Hong Kong. 
