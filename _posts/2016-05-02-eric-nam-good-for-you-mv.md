@@ -16,8 +16,8 @@ keywords:
   - video
   - btob
 description: '#PLAYLIST: May 2016'
-datePublished: '2016-05-02T08:06:08.260Z'
-dateModified: '2016-05-02T08:06:05.576Z'
+datePublished: '2016-05-02T08:15:47.165Z'
+dateModified: '2016-05-02T08:15:42.073Z'
 author:
   - name: CJENMMUSIC Official
     url: 'https://www.youtube.com/user/CJENMMUSIC'
@@ -61,6 +61,8 @@ app_links:
     namespace: google
     type: ios
 title: "에릭남 (Eric Nam) - 'Good For You' MV"
+sourcePath: _posts/2016-05-02-eric-nam-good-for-you-mv.md
+published: true
 authors: []
 publisher:
   name: YouTube
@@ -68,8 +70,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-02-eric-nam-good-for-you-mv.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
