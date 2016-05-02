@@ -1,6 +1,6 @@
 name: Girl With Kaleidoscope Eyes
 favicon: null
-layout_spectrum: 0.61272
+layout_spectrum: 0.49904
 typography_spectrum: 0.04817
 title: Girl With Kaleidoscope Eyes
 collections:
@@ -37,5 +37,5 @@ color:
   brandStrength: 1
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
