@@ -16,8 +16,8 @@ keywords:
   - video
   - btob
 description: '#PLAYLIST: May 2016 - Eric Nam 에릭남'
-datePublished: '2016-05-03T15:16:48.072Z'
-dateModified: '2016-05-03T15:16:29.662Z'
+datePublished: '2016-05-03T15:21:57.622Z'
+dateModified: '2016-05-03T15:17:01.872Z'
 author:
   - name: ''
     url: 'https://www.youtube.com/user/CJENMMUSIC'
