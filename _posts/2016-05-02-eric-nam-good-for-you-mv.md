@@ -15,11 +15,11 @@ keywords:
   - nam
   - video
   - btob
-description: '#PLAYLIST: May 2016'
-datePublished: '2016-05-03T15:13:33.590Z'
-dateModified: '2016-05-03T15:12:40.020Z'
+description: '#PLAYLIST: May 2016 - Eric Nam 에릭남'
+datePublished: '2016-05-03T15:16:48.072Z'
+dateModified: '2016-05-03T15:16:29.662Z'
 author:
-  - name: CJENMMUSIC Official
+  - name: ''
     url: 'https://www.youtube.com/user/CJENMMUSIC'
     avatar: {}
 related: []
@@ -74,7 +74,7 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-\#PLAYLIST: May 2016
+\#PLAYLIST: May 2016 - Eric Nam 에릭남
 
 It's been quite some time since I found a new artist to listen to and I'm so happy to have found out about Eric Nam's music. His groovy, R&B, jazzy, pop style is just everything I love and I cannot believe I only found out about him recently! He is so underrated and I totally think that he deserves more love for his amazing music.
 
