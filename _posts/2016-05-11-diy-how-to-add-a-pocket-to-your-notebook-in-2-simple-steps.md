@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Items needed:'
-datePublished: '2016-05-11T06:36:01.253Z'
-dateModified: '2016-05-11T06:35:47.916Z'
+datePublished: '2016-05-11T06:48:14.462Z'
+dateModified: '2016-05-11T06:36:20.866Z'
 title: '#DIY: How to add a pocket to your notebook in 2 simple steps'
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-11-diy-how-to-add-a-pocket-to-your-notebook-in-2-simple-steps.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-diy-how-to-add-a-pocket-to-your-notebook-in-2-simple-steps.md
 url: diy-how-to-add-a-pocket-to-your-notebook-in-2-simple-steps/index.html
 _type: Article
 
