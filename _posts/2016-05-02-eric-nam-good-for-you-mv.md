@@ -15,9 +15,9 @@ keywords:
   - nam
   - video
   - btob
-description: '#PLAYLIST: May 2016 - Eric Nam 에릭남'
-datePublished: '2016-05-03T15:25:17.125Z'
-dateModified: '2016-05-03T15:24:21.749Z'
+description: "It's been quite some time since I found a new artist to listen to and I'm so happy to have found out about Eric Nam's music. His groovy, R&B, jazzy, pop style is just everything I love and I cannot believe I only found out about him recently! He is so underrated and I totally think that he deserves more love for his amazing music."
+datePublished: '2016-05-11T06:24:15.008Z'
+dateModified: '2016-05-11T06:24:03.178Z'
 author:
   - name: ''
     url: 'https://www.youtube.com/user/CJENMMUSIC'
@@ -62,7 +62,6 @@ app_links:
     type: ios
 title: "에릭남 (Eric Nam) - 'Good For You' MV"
 sourcePath: _posts/2016-05-02-eric-nam-good-for-you-mv.md
-published: true
 authors: []
 publisher:
   name: YouTube
@@ -74,7 +73,7 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-\#PLAYLIST: May 2016 - Eric Nam 에릭남
+# \#PLAYLIST: May 2016 - Eric Nam 에릭남
 
 It's been quite some time since I found a new artist to listen to and I'm so happy to have found out about Eric Nam's music. His groovy, R&B, jazzy, pop style is just everything I love and I cannot believe I only found out about him recently! He is so underrated and I totally think that he deserves more love for his amazing music.
 
