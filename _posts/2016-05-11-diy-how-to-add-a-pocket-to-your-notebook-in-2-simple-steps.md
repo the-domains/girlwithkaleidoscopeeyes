@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Items needed:'
-datePublished: '2016-05-11T06:48:14.462Z'
-dateModified: '2016-05-11T06:36:20.866Z'
+datePublished: '2016-05-11T06:58:08.662Z'
+dateModified: '2016-05-11T06:58:04.200Z'
 title: '#DIY: How to add a pocket to your notebook in 2 simple steps'
 author:
   - name: ''
@@ -23,8 +23,9 @@ url: diy-how-to-add-a-pocket-to-your-notebook-in-2-simple-steps/index.html
 _type: Article
 
 ---
-# \#DIY: How to add a pocket to your notebook in 2 simple steps
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c83b6402-7091-4083-bbc5-b369884f3bc5.jpg)
+
+# \#DIY: How to add a pocket to your notebook in 2 simple steps
 
 The other day, I was wondering how I could attach my little bits and pieces of notes to my notebook without stapling it to a page or using a paper clip and it suddenly came to me that I could simply just attach 2 pages of the notebook together to create a pocket! It was a moment of sudden realisation. And so, here's the step by step process of how to add a pocket to any notebook in 2 simple steps.
 
