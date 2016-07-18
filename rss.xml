@@ -4,7 +4,7 @@
         <description><![CDATA[Girl With Kaleidoscope Eyes]]></description>
         <link>http://girlwithkaleidoscopeeyes.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 07:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 06:54:41 GMT</lastBuildDate>
         <atom:link href="http://girlwithkaleidoscopeeyes.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#about]]></title>
@@ -12,6 +12,13 @@
             <link>http://girlwithkaleidoscopeeyes.com/abt/index.html</link>
             <guid isPermaLink="false">79d7d3fd-0bcb-41f6-a849-5c8d3c929c65</guid>
             <pubDate>Wed, 11 May 2016 07:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#Being a tourist in my Singapore]]></title>
+            <description><![CDATA[<p>Why do I want to be a tourist in my own country?</p>]]></description>
+            <link>http://girlwithkaleidoscopeeyes.com/tourist/index.html</link>
+            <guid isPermaLink="false">4fab04d3-6e4d-46e3-adba-24f35615c817</guid>
+            <pubDate>Mon, 18 Jul 2016 06:54:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#DIY: How to add a pocket to your notebook in 2 simple steps]]></title>
@@ -26,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=gb0fKaENYI4</link>
             <guid isPermaLink="false">a80f56db-7239-4b4d-8d9a-95adf0b0e164</guid>
             <pubDate>Wed, 11 May 2016 06:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#Being a tourist in my Singapore]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16c8718c77117367f974290ece70d2cdff62341a.jpg" alt="" title="">]]></description>
-            <link>http://girlwithkaleidoscopeeyes.com/tourist/index.html</link>
-            <guid isPermaLink="false">4fab04d3-6e4d-46e3-adba-24f35615c817</guid>
-            <pubDate>Fri, 04 Mar 2016 10:05:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
